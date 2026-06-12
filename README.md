@@ -1,4 +1,4 @@
-🚀 #001 | Grinding for Greatness: Developer Edition
+###🚀 #001 | Grinding for Greatness: Developer Edition
 
 Hello GitHub! 👋
 
